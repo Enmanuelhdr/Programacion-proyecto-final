@@ -1,4 +1,3 @@
-## Plantilla para proyecto de Github
 ## Typing Game
 
 _Este es un programa con interfaz grafica e integracion con bases de datos, el cual tiene la funcion de ser un minijuego de mecanografia, en donde puedes pasar el rato escribiendo y tratando de romper tus limites, te permite vizualizar, tus tiempos, numero de palabras que fallas, si transcribiste el texto completo, y cuales fueron las palabras que fallaste._
