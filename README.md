@@ -13,9 +13,10 @@ _Este es un programa con interfaz grafica e integracion con bases de datos, el c
 pip install requests
 ```
 
-## Despliegue 📦
+## Ojo 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+* _Siemplemente tienes que comenzar a escribir y el cronometro correra solo_
+* _Presionar la tecla enter cuando termines de escribir_.
 
 ## Modulos utilizados 🛠️
 
