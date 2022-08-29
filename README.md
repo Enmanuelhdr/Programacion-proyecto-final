@@ -1,7 +1,7 @@
 ## Plantilla para proyecto de Github
 ## Typing Game
 
-_Este es un programa con interfaz grafica el cual tiene la funcion de ser un minijuego de mecanografia, en donde puedes pasar el rato escribiendo y tratando de romper tus limites_
+_Este es un programa con interfaz grafica e integracion con bases de datos, el cual tiene la funcion de ser un minijuego de mecanografia, en donde puedes pasar el rato escribiendo y tratando de romper tus limites, te permite vizualizar, tus tiempos, numero de palabras que fallas, si transcribiste el texto completo, y cuales fueron las palabras que fallaste._
 
 ### Pre-requisitos 📋
 
@@ -11,26 +11,6 @@ _Este es un programa con interfaz grafica el cual tiene la funcion de ser un min
 
 ```
 pip install requests
-```
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Funciones a destacar ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
 ```
 
 ## Despliegue 📦
@@ -43,10 +23,6 @@ _Agrega notas adicionales sobre como hacer deploy_
 * Request para hacer peticiones web
 * Tk inter para la interfaz grafica
 
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Autores ✒️
 
